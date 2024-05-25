@@ -1,0 +1,11 @@
+e9055e05f0974ff3ba7b3fcbc2408931 *DESCRIPTION
+c367cea02e3745afacc4b9eadd442d52 *NAMESPACE
+22fc44d5468836e602483c086431d1b7 *R/seqFromWaves.R
+3b4e935d6155d0ccfb8f5237e0967595 *README.md
+4b8e8eae004f6d9bfc40c27e1d4a5df5 *inst/CITATION
+42cbe3913ddd1d519f90cd3a0b034947 *inst/extdata/SHP_MP.sav
+52eb51cb2022219fb114ec04a97290bf *inst/extdata/W1_1999/SHP99_P_USER.sav
+c713ff267610abd95c32b30b3b5308e1 *inst/extdata/W2_2000/SHP00_P_USER.sav
+8642a7598aaf3cd1ad179a32b3ee6845 *inst/extdata/W3_2001/SHP01_P_USER.sav
+f6fa7f89a0478354f8b1cf33cb7581af *man/getColumnIndex.Rd
+02de3a5f54a4b4f5ddebd204a8a9471c *man/seqFromWaves.Rd

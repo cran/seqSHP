@@ -1,0 +1,14 @@
+citHeader("To cite seqSHP in publications please use:")
+
+p1 <- person("Gilbert", "Ritschard", email = "gilbert.ritschard@unige.ch")
+
+bibentry(bibtype="techreport",
+  author = c(p1),
+  title = "Package seq{SHP}",
+  institution = "Comprehensive R Archive Network (CRAN)",
+  type = "Reference manual",
+  year = "2024",
+
+  textVersion="Ritschard, G. (2024),
+  Package seqSHP, Comprehensive R Archive Network (CRAN)"
+)
